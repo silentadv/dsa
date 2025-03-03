@@ -13,6 +13,6 @@
 - [X] `.delete(idx)` → Removes the element at an index.  
 - [X] `.remove(item)` → Removes the first occurrence of an item.  
 - [X] `.find(item)` → Returns the index of an item.  
-- [X] `.grow(size)` → Increases the capacity.## Linked List 
+- [X] `.grow(size)` → Increases the capacity.
 
 ## Linked List
